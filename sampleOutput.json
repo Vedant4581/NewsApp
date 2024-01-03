@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "Connor Andrews",
+      "title": "Azeem Rafiq accuses England cricket legend Michael Atherton of undermining his experiences ‘at every o...",
+      "description": "Azeem Rafiq has condemned former England cricketer Michael Atherton for his reaction to the ICEC report which found racism, sexism and elitism across the sport. The Independent Commission for Equit…",
+      "url": "https://talksport.com/sport/cricket/1480155/azeem-rafiq-accuses-atherton-undermining-experiences/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/06/SD-TALKSPORT-RAFIQ-ATHERTON.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2023-06-27T18:11:06Z",
+      "content": "Azeem Rafiq has condemned former England cricketer Michael Atherton for his reaction to the ICEC report which found racism, sexism and elitism across the sport.\r\nThe Independent Commission for Equity… [+1586 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Stokes 'deeply sorry' to hear of discrimination",
+      "description": "England captain Ben Stokes said he is \"deeply sorry\" to hear about experiences of discrimination in a report into cricket in England and Wales.",
+      "url": "http://www.bbc.co.uk/sport/cricket/66031285",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11787/production/_124395517_bbcbreakingnewsgraphic.jpg",
+      "publishedAt": "2023-06-27T11:07:20.1746876Z",
+      "content": "Racism, sexism, classism and elitism widespread in cricket - report chair Cindy Butts\r\nEngland captain Ben Stokes says he is \"deeply sorry\" to hear of experiences of discrimination in a report into c… [+1716 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
